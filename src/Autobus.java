@@ -6,7 +6,7 @@ public class Autobus {
 			return x+y+y;
 		}else {
 			System.out.println(x);
-			return x+x;
+			return x+x+y;
 			
 			
 		}
