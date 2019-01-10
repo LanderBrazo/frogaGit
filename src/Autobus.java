@@ -5,9 +5,9 @@ public class Autobus {
 		if(x>y) {
 			return x+y;
 		}else {
+			System.out.println(x);
 			return x+x;
 		}
-		
 		
 	}
 
