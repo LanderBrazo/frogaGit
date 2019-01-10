@@ -7,6 +7,8 @@ public class Autobus {
 		}else {
 			System.out.println(x);
 			return x+x;
+			
+			
 		}
 		
 	}
